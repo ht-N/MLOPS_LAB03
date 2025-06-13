@@ -1,0 +1,110 @@
+ML_API[4876]: WARNING - System logging test - this should appear in syslog
+ML_API[15628]: WARNING - System logging test - this should appear in syslog
+ML_API[13848]: WARNING - System logging test - this should appear in syslog
+ML_API[1636]: WARNING - System logging test - this should appear in syslog
+ML_API[1636]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-12T23:17:03.320093
+ML_API[1636]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[1636]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[1636]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[1636]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[16020]: WARNING - System logging test - this should appear in syslog
+ML_API[16020]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-12T23:17:15.292025
+ML_API[16020]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[16020]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[16020]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[16020]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[16020]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-12T23:17:53.405867
+ML_API[16020]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 15.0%, Memory: 87.2%
+ML_API[16020]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[10344]: WARNING - System logging test - this should appear in syslog
+ML_API[10344]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-12T23:17:58.111406
+ML_API[10344]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[10344]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[10344]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[10344]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[10344]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-12T23:40:56.593269
+ML_API[10344]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 22.2%, Memory: 50.5%
+ML_API[10344]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[16436]: WARNING - System logging test - this should appear in syslog
+ML_API[16436]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T20:57:31.711315
+ML_API[16436]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[16436]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[16436]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[16436]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[16436]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[16436]: ERROR - Failed to send Gmail alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2365dea906esm14313335ad.156 - gsmtp')
+ML_API[16436]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:01:36.802046
+ML_API[16436]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 17.7%, Memory: 86.5%
+ML_API[16436]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[12480]: WARNING - System logging test - this should appear in syslog
+ML_API[11536]: WARNING - System logging test - this should appear in syslog
+ML_API[11536]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:05:21.668967
+ML_API[11536]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[11536]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[11536]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[11536]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[11536]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[11536]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:05:34.065373
+ML_API[11536]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 14.6%, Memory: 94.2%
+ML_API[11536]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[11216]: WARNING - System logging test - this should appear in syslog
+ML_API[11216]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:05:39.430034
+ML_API[11216]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[11216]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[11216]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[11216]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[11216]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[11216]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[11216]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[11216]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[11216]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:13:31.129446
+ML_API[11216]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 15.8%, Memory: 91.0%
+ML_API[11216]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[5844]: WARNING - System logging test - this should appear in syslog
+ML_API[5844]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:13:37.778638
+ML_API[5844]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[5844]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[5844]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[5844]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[5844]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[5844]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:14:05.157169
+ML_API[5844]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 22.5%, Memory: 93.7%
+ML_API[5844]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[12992]: WARNING - System logging test - this should appear in syslog
+ML_API[12992]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:14:11.257864
+ML_API[12992]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[12992]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[12992]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[12992]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[12992]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[12992]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:14:27.424404
+ML_API[12992]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 47.4%, Memory: 94.2%
+ML_API[12992]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[16028]: WARNING - System logging test - this should appear in syslog
+ML_API[16028]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:14:33.218678
+ML_API[16028]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[16028]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[16028]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[16028]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[16028]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[16028]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:18:12.750353
+ML_API[16028]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 8.8%, Memory: 90.9%
+ML_API[16028]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[14552]: WARNING - System logging test - this should appear in syslog
+ML_API[14552]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:18:18.499392
+ML_API[14552]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[14552]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[14552]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[14552]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[14552]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[14552]: WARNING - LOW CONFIDENCE ALERT SENT: 0.4113 < 0.6
+ML_API[14552]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:18:56.836528
+ML_API[14552]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 13.2%, Memory: 91.4%
+ML_API[14552]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[16240]: WARNING - System logging test - this should appear in syslog
+ML_API[16240]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:19:02.194877
+ML_API[16240]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[16240]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[16240]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[16240]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[16240]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
