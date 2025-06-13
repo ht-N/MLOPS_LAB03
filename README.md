@@ -1,51 +1,31 @@
 # MLOPS_LAB03
 
-This project provides a robust template for serving a machine learning model (PyTorch, image classification) via a FastAPI backend. It features an extensive, built-in monitoring and alerting system using Prometheus, Grafana, and Gmail.
+This project provides a robust template for serving a machine learning model (PyTorch, image classification) via a FastAPI backend. It features an extensive, built-in monitoring and alerting system using Prometheus and Gmail.
 
-## Features
-
-- **FastAPI Backend**: High-performance API for model inference.
-- **PyTorch Integration**: Serves a ResNet50 model trained on CIFAR-10, ready for GPU or CPU execution.
-- **Comprehensive Monitoring (Prometheus)**: Exports detailed metrics for:
-  - **API Performance**: Request count, latency, error rates, request/response sizes.
-  - **System Resources**: CPU, RAM, Disk I/O, Network I/O.
-  - **GPU Health**: Utilization, memory usage, temperature (requires NVIDIA GPU and drivers).
-  - **Model Performance**: Inference time, prediction confidence scores, class distribution.
-  - **Logging System**: Tracks handler status and log file health.
-- **Alerting**: A built-in system that sends critical alerts via Gmail for:
-  - High API error rates.
-  - Low model confidence.
-  - High CPU or memory usage.
-- **Dashboard Ready**: Designed to be visualized with Grafana for a real-time overview of the system's health.
-- **Structured Logging**: Detailed and multi-destination logging (console, file, syslog) for easy debugging and auditing.
+Stack used: Prometheus + Alertmanager
 
 ## Architecture Overview
 
 ```mermaid
 graph TD
-    subgraph "User Interaction"
-        User[Client/User] -->|/predict| API
+    subgraph "Client"
+        User[User/Client]
     end
 
-    subgraph "ML API Service (FastAPI)"
+    subgraph "ML Service & Monitoring"
         API(FastAPI App)
-        API -- /predict --> Model[PyTorch Model]
-        API -- /metrics --> Prometheus
-        API -->|Logs| LogFiles[Log Files & Console]
-        API -->|Alerts| Gmail
+        API -- "/predict (Inference)" --> Model[PyTorch Model]
+        API -- "/metrics (Scraping)" --> Prometheus[Prometheus Server]
+        API -- "Built-in Check" -->|Sends Alert| Gmail[Gmail SMTP]
+        API -- "Logs Events" --> LogFiles[Log Files / Console]
     end
 
-    subgraph "Monitoring & Visualization"
-        Prometheus[Prometheus Server]
-        Grafana[Grafana]
-        Prometheus -->|Scrapes| API
-        Grafana -->|Queries| Prometheus
-        User -->|Views Dashboards| Grafana
+    subgraph "External Tools"
+        Prometheus
     end
 
-    subgraph "Alerting"
-        Gmail[Gmail SMTP]
-    end
+    User -- "Sends Image" --> API
+    Prometheus -- "Collects Metrics" --> API
 ```
 
 ## 1. Prerequisites
@@ -54,58 +34,25 @@ graph TD
 - **pip** and **virtualenv**
 - **NVIDIA GPU** with **CUDA Drivers** installed (for GPU acceleration).
 - **Prometheus**: For metrics collection.
-- **Grafana**: For data visualization and dashboards.
 
 ## 2. Installation and Setup
 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone https://github.com/ht-N/MLOPS_LAB03.git
+cd MLOPS_LAB03
 ```
 
-### Step 2: Set Up External Tools (Prometheus & Grafana)
-
-#### Prometheus
-
-1.  **Download and Install Prometheus** from the [official website](https://prometheus.io/download/).
-2.  Create a `prometheus.yml` configuration file in the same directory as the Prometheus executable:
-
-    ```yaml
-    # prometheus.yml
-    global:
-      scrape_interval: 15s # Scrape metrics every 15 seconds.
-
-    scrape_configs:
-      - job_name: 'ml-api-monitoring'
-        static_configs:
-          - targets: ['localhost:8000'] # The address of our FastAPI app.
-    ```
-3.  You will start Prometheus *after* the API is running (see Step 5).
-
-#### Grafana
-
-1.  **Download and Install Grafana** from the [official website](https://grafana.com/grafana/download).
-2.  Start the Grafana server. You can access it at `http://localhost:3000`.
-3.  Configure Prometheus as a data source in Grafana:
-    - Go to `Configuration > Data Sources > Add data source`.
-    - Select `Prometheus`.
-    - Set the URL to `http://localhost:9090` (the default Prometheus address).
-    - Click `Save & Test`.
-
-### Step 3: Set Up Python Environment
+### Step 2: Set Up Python Environment
 
 It is crucial to use the specified library versions to ensure compatibility.
 
 1.  **Create and activate a virtual environment:**
 
     ```bash
-    python -m venv venv
-    # On Windows
-    .\venv\Scripts\activate
-    # On macOS/Linux
-    source venv/bin/activate
+    conda create -n <your_venv_name> python=3.11
+    conda activate <your_chosen_venv_naem>
     ```
 
 2.  **Install PyTorch with GPU (CUDA) support:**
@@ -121,7 +68,7 @@ It is crucial to use the specified library versions to ensure compatibility.
     pip install -r requirements.txt
     ```
 
-### Step 4: Configure Environment Variables
+### Step 3: Configure Environment Variables
 
 The application uses a `.env` file to manage secrets for the Gmail alerting system.
 
