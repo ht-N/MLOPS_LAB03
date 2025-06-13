@@ -73,15 +73,6 @@ The application expects the pre-trained model checkpoint to be in the `checkpoin
     uvicorn app:app --host 0.0.0.0 --port 8000
     ```
     The API is now running and accessible at `http://localhost:8000`.
-
-2.  **Start the Prometheus Server:**
-    Open another terminal, navigate to your Prometheus directory, and run:
-    
-    ```bash
-    ./prometheus --config.file=prometheus.yml
-    ```
-    You can access the Prometheus UI at `http://localhost:9090`. Check the `Targets` page to ensure it's successfully scraping the API.
-
 ## 4. API Endpoints
 
 Once running, you can interact with the following endpoints:
