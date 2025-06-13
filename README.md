@@ -2,31 +2,7 @@
 
 This project provides a robust template for serving a machine learning model (PyTorch, image classification) via a FastAPI backend. It features an extensive, built-in monitoring and alerting system using Prometheus and Gmail.
 
-Stack used: Prometheus + Alertmanager
-
-## Architecture Overview
-
-```mermaid
-graph TD
-    subgraph "Client"
-        User[User/Client]
-    end
-
-    subgraph "ML Service & Monitoring"
-        API(FastAPI App)
-        API -- "/predict (Inference)" --> Model[PyTorch Model]
-        API -- "/metrics (Scraping)" --> Prometheus[Prometheus Server]
-        API -- "Built-in Check" -->|Sends Alert| Gmail[Gmail SMTP]
-        API -- "Logs Events" --> LogFiles[Log Files / Console]
-    end
-
-    subgraph "External Tools"
-        Prometheus
-    end
-
-    User -- "Sends Image" --> API
-    Prometheus -- "Collects Metrics" --> API
-```
+Stack used: Prometheus + External tools for Email Alerting
 
 ## 1. Prerequisites
 
