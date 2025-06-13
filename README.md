@@ -65,8 +65,7 @@ The application expects the pre-trained model checkpoint to be in the `checkpoin
 2.  Place your `best_model_logging_demo.pth` file inside it.
 
 ## 3. Running the Application
-
-1.  **Start the FastAPI Application:**
+ **Start the FastAPI Application:**
     Open a terminal, activate the virtual environment (`venv`), and run:
 
     ```bash
