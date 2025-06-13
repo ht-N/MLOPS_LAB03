@@ -57,7 +57,7 @@ The application uses a `.env` file to manage secrets for the Gmail alerting syst
     ```
 3.  You can configure the sender and receiver emails in the `GMAIL_ALERT_CONFIG` dictionary inside `app.py`.
 
-### Step 5: Download Model Checkpoint
+### Step 4: Download Model Checkpoint
 
 The application expects the pre-trained model checkpoint to be in the `checkpoints` directory.
 
