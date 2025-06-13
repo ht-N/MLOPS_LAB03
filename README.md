@@ -1,4 +1,5 @@
 # MLOPS_LAB03
+[Demonstration Video Link]([https://youtu.be/YRSogE5KbkU](https://youtu.be/KvMhtfScVHg))
 
 This project provides a robust template for serving a machine learning model (PyTorch, image classification) via a FastAPI backend. It features an extensive, built-in monitoring and alerting system using Prometheus and Gmail.
 
