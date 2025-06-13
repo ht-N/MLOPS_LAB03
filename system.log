@@ -108,3 +108,75 @@ ML_API[16240]: ERROR - LOG TEST [ERROR]: Error level test message
 ML_API[16240]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
 ML_API[16240]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
 ML_API[16240]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[16240]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:55:38.810086
+ML_API[16240]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 49.1%, Memory: 94.5%
+ML_API[16240]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[15524]: WARNING - System logging test - this should appear in syslog
+ML_API[15524]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:55:50.437777
+ML_API[15524]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[15524]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[15524]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[15524]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[15524]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[15524]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:56:44.779957
+ML_API[15524]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 42.2%, Memory: 96.0%
+ML_API[15524]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[5748]: WARNING - System logging test - this should appear in syslog
+ML_API[5748]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:56:52.633330
+ML_API[5748]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[5748]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[5748]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[5748]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[5748]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[5748]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T22:08:53.434997
+ML_API[5748]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 31.6%, Memory: 95.6%
+ML_API[5748]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[1048]: WARNING - System logging test - this should appear in syslog
+ML_API[1048]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T22:57:02.071286
+ML_API[1048]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[1048]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[1048]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[1048]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[1048]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[1048]: WARNING - WARNING: This is a warning message
+ML_API[1048]: ERROR - ERROR: This is an error message
+ML_API[1048]: ERROR - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+ML_API[1048]: WARNING - WARNING: This is a warning message
+ML_API[1048]: ERROR - ERROR: This is an error message
+ML_API[1048]: ERROR - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+ML_API[1048]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T22:59:09.504549
+ML_API[1048]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 13.6%, Memory: 92.6%
+ML_API[1048]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed
+ML_API[11320]: WARNING - System logging test - this should appear in syslog
+ML_API[11320]: WARNING - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T22:59:45.630300
+ML_API[11320]: WARNING - LOG TEST [WARNING]: Warning level test message
+ML_API[11320]: ERROR - LOG TEST [ERROR]: Error level test message
+ML_API[11320]: CRITICAL - LOG TEST [CRITICAL]: Critical level test message
+ML_API[11320]: WARNING - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+ML_API[11320]: WARNING - System startup event logged to syslog: ML Model API startup completed successfully
+ML_API[11320]: WARNING - WARNING: This is a warning message
+ML_API[11320]: ERROR - ERROR: This is an error message
+ML_API[11320]: ERROR - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+ML_API[11320]: WARNING - WARNING: This is a warning message
+ML_API[11320]: ERROR - ERROR: This is an error message
+ML_API[11320]: ERROR - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+ML_API[11320]: WARNING - LOW CONFIDENCE ALERT SENT: 0.4113 < 0.6
+ML_API[11320]: WARNING - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T23:05:36.835948
+ML_API[11320]: WARNING - System shutdown event logged to syslog: Final stats - CPU: 22.0%, Memory: 82.9%
+ML_API[11320]: WARNING - System shutdown event logged to syslog: ML Model API shutdown completed

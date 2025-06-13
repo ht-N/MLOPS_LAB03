@@ -2372,3 +2372,1254 @@
 2025-06-13 21:41:12,565 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
 2025-06-13 21:41:12,574 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
 2025-06-13 21:41:12,616 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:41:23,621 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 2.1%
+2025-06-13 21:41:23,624 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 82.2% (6732390400/8192454656 bytes)
+2025-06-13 21:41:23,625 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:41:23,634 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:41:23,682 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:41:34,695 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 2.9%
+2025-06-13 21:41:34,700 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 81.6% (6687895552/8192454656 bytes)
+2025-06-13 21:41:34,701 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:41:34,710 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:41:34,757 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:41:45,776 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 2.3%
+2025-06-13 21:41:45,782 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 82.7% (6778970112/8192454656 bytes)
+2025-06-13 21:41:45,783 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:41:45,792 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:41:45,828 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:41:56,827 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.7%
+2025-06-13 21:41:56,830 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 83.1% (6809665536/8192454656 bytes)
+2025-06-13 21:41:56,831 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:41:56,837 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:41:56,878 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:42:07,879 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 18.6%
+2025-06-13 21:42:07,884 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 83.5% (6836903936/8192454656 bytes)
+2025-06-13 21:42:07,885 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:42:07,894 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:42:07,931 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:42:18,925 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 14.8%
+2025-06-13 21:42:18,930 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.7% (7104643072/8192454656 bytes)
+2025-06-13 21:42:18,931 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:42:18,941 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:42:18,989 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:42:29,990 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.8%
+2025-06-13 21:42:29,992 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.8% (7108583424/8192454656 bytes)
+2025-06-13 21:42:29,993 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:42:29,998 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:42:30,038 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:42:30,038 - app - DEBUG - app.py:702 - check_and_send_alerts() - Checking alerts...
+2025-06-13 21:42:30,039 - app - DEBUG - app.py:706 - check_and_send_alerts() - Error rate: 0.0% (threshold: 50.0%)
+2025-06-13 21:42:41,047 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.6%
+2025-06-13 21:42:41,050 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.3% (7066365952/8192454656 bytes)
+2025-06-13 21:42:41,051 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:42:41,056 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:42:41,096 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:42:52,104 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.6%
+2025-06-13 21:42:52,108 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.5% (7003738112/8192454656 bytes)
+2025-06-13 21:42:52,109 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:42:52,118 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:42:52,154 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:43:03,164 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.9%
+2025-06-13 21:43:03,168 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.8% (7027437568/8192454656 bytes)
+2025-06-13 21:43:03,169 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:43:03,174 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:43:03,208 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:43:14,223 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.3%
+2025-06-13 21:43:14,226 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.8% (7030419456/8192454656 bytes)
+2025-06-13 21:43:14,227 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:43:14,234 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:43:14,274 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:43:25,288 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 10.2%
+2025-06-13 21:43:25,295 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.6% (7014494208/8192454656 bytes)
+2025-06-13 21:43:25,296 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:43:25,308 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:43:25,354 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:43:36,356 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.3%
+2025-06-13 21:43:36,361 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.5% (7004958720/8192454656 bytes)
+2025-06-13 21:43:36,362 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:43:36,370 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:43:36,404 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:43:47,407 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.6%
+2025-06-13 21:43:47,409 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.3% (6990229504/8192454656 bytes)
+2025-06-13 21:43:47,410 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:43:47,416 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:43:47,457 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:43:58,459 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.2%
+2025-06-13 21:43:58,463 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.1% (7052914688/8192454656 bytes)
+2025-06-13 21:43:58,463 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:43:58,469 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:43:58,512 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:44:09,522 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.9%
+2025-06-13 21:44:09,526 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.7% (7020834816/8192454656 bytes)
+2025-06-13 21:44:09,527 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:44:09,532 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:44:09,573 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:44:20,592 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.9%
+2025-06-13 21:44:20,597 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.7% (7023878144/8192454656 bytes)
+2025-06-13 21:44:20,598 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:44:20,607 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:44:20,659 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:44:31,675 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.1%
+2025-06-13 21:44:31,683 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.4% (6998147072/8192454656 bytes)
+2025-06-13 21:44:31,684 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:44:31,695 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:44:31,727 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:44:42,750 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.6%
+2025-06-13 21:44:42,754 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.3% (6989537280/8192454656 bytes)
+2025-06-13 21:44:42,755 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:44:42,763 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:44:42,800 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:44:53,823 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 1.8%
+2025-06-13 21:44:53,830 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.3% (6987366400/8192454656 bytes)
+2025-06-13 21:44:53,831 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:44:53,840 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:44:53,891 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:45:04,896 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.8%
+2025-06-13 21:45:04,903 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.3% (6985486336/8192454656 bytes)
+2025-06-13 21:45:04,904 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:45:04,913 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:45:04,964 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:45:15,978 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 1.2%
+2025-06-13 21:45:15,985 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 84.2% (6897762304/8192454656 bytes)
+2025-06-13 21:45:15,986 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:45:15,995 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:45:16,031 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:45:27,041 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 3.9%
+2025-06-13 21:45:27,046 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 84.2% (6898044928/8192454656 bytes)
+2025-06-13 21:45:27,046 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:45:27,051 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:45:27,092 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:45:38,106 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 2.5%
+2025-06-13 21:45:38,112 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 84.0% (6882762752/8192454656 bytes)
+2025-06-13 21:45:38,113 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:45:38,122 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:45:38,173 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:45:49,192 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.1%
+2025-06-13 21:45:49,195 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.4% (6993915904/8192454656 bytes)
+2025-06-13 21:45:49,196 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:45:49,207 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:45:49,242 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:46:00,252 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.7%
+2025-06-13 21:46:00,255 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.6% (7012286464/8192454656 bytes)
+2025-06-13 21:46:00,255 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:46:00,263 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:46:00,298 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:46:00,299 - app - DEBUG - app.py:702 - check_and_send_alerts() - Checking alerts...
+2025-06-13 21:46:00,299 - app - DEBUG - app.py:706 - check_and_send_alerts() - Error rate: 0.0% (threshold: 50.0%)
+2025-06-13 21:46:11,323 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 3.1%
+2025-06-13 21:46:11,326 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.8% (7029915648/8192454656 bytes)
+2025-06-13 21:46:11,326 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:46:11,332 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:46:11,376 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:46:22,404 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.6%
+2025-06-13 21:46:22,410 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.0% (7044653056/8192454656 bytes)
+2025-06-13 21:46:22,410 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:46:22,416 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:46:22,451 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:46:33,452 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 28.7%
+2025-06-13 21:46:33,460 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.0% (7043244032/8192454656 bytes)
+2025-06-13 21:46:33,461 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:46:33,470 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:46:33,525 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:46:44,544 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.7%
+2025-06-13 21:46:44,549 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.1% (7054127104/8192454656 bytes)
+2025-06-13 21:46:44,550 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:46:44,559 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:46:44,594 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:46:55,598 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.8%
+2025-06-13 21:46:55,605 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.0% (7130116096/8192454656 bytes)
+2025-06-13 21:46:55,606 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:46:55,615 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:46:55,658 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:47:06,673 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.8%
+2025-06-13 21:47:06,681 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.3% (7147917312/8192454656 bytes)
+2025-06-13 21:47:06,683 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:47:06,691 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:47:06,735 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:47:17,757 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.2%
+2025-06-13 21:47:17,763 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.2% (7146885120/8192454656 bytes)
+2025-06-13 21:47:17,764 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:47:17,773 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:47:17,806 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:47:28,818 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 2.9%
+2025-06-13 21:47:28,827 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.6% (7178874880/8192454656 bytes)
+2025-06-13 21:47:28,828 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:47:28,838 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:47:28,883 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:47:39,905 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 3.1%
+2025-06-13 21:47:39,909 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.0% (7126536192/8192454656 bytes)
+2025-06-13 21:47:39,910 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:47:39,916 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:47:39,957 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:47:50,986 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.9%
+2025-06-13 21:47:50,993 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.9% (7122169856/8192454656 bytes)
+2025-06-13 21:47:50,993 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:47:51,002 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:47:51,051 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:48:02,080 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.0%
+2025-06-13 21:48:02,088 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.8% (7114252288/8192454656 bytes)
+2025-06-13 21:48:02,090 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:48:02,098 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:48:02,146 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:48:13,164 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.0%
+2025-06-13 21:48:13,167 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.0% (7208017920/8192454656 bytes)
+2025-06-13 21:48:13,168 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:48:13,175 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:48:13,214 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:48:24,224 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.4%
+2025-06-13 21:48:24,230 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.8% (7434678272/8192454656 bytes)
+2025-06-13 21:48:24,231 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:48:24,237 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:48:24,279 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:48:35,297 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 24.1%
+2025-06-13 21:48:35,302 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.8% (7522729984/8192454656 bytes)
+2025-06-13 21:48:35,303 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:48:35,314 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:48:35,369 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:48:46,373 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.2%
+2025-06-13 21:48:46,378 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.0% (7539159040/8192454656 bytes)
+2025-06-13 21:48:46,379 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:48:46,386 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:48:46,436 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:48:57,439 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 19.1%
+2025-06-13 21:48:57,441 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.3% (7397806080/8192454656 bytes)
+2025-06-13 21:48:57,442 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:48:57,447 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:48:57,489 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:49:08,501 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 33.6%
+2025-06-13 21:49:08,506 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.3% (7479443456/8192454656 bytes)
+2025-06-13 21:49:08,507 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:49:08,514 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:49:08,554 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:49:19,575 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 40.2%
+2025-06-13 21:49:19,580 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.2% (7717064704/8192454656 bytes)
+2025-06-13 21:49:19,581 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:49:19,589 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:49:19,643 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:49:30,666 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 17.4%
+2025-06-13 21:49:30,669 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 95.2% (7800696832/8192454656 bytes)
+2025-06-13 21:49:30,670 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:49:30,676 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:49:30,730 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:49:30,731 - app - DEBUG - app.py:702 - check_and_send_alerts() - Checking alerts...
+2025-06-13 21:49:30,731 - app - DEBUG - app.py:706 - check_and_send_alerts() - Error rate: 0.0% (threshold: 50.0%)
+2025-06-13 21:49:33,423 - app - INFO - app.py:682 - send_gmail_alert() - Gmail alert sent successfully: CRITICAL: High Memory
+2025-06-13 21:49:44,451 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 25.8%
+2025-06-13 21:49:44,456 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 95.0% (7785725952/8192454656 bytes)
+2025-06-13 21:49:44,457 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:49:44,468 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:49:44,516 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:49:55,521 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 19.8%
+2025-06-13 21:49:55,525 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.2% (7554211840/8192454656 bytes)
+2025-06-13 21:49:55,526 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:49:55,538 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:49:55,588 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:50:06,608 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 25.4%
+2025-06-13 21:50:06,613 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.2% (7473721344/8192454656 bytes)
+2025-06-13 21:50:06,614 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:50:06,623 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:50:06,673 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:50:17,683 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 30.1%
+2025-06-13 21:50:17,688 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.3% (7072600064/8192454656 bytes)
+2025-06-13 21:50:17,690 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:50:17,697 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:50:17,737 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:50:28,761 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 33.7%
+2025-06-13 21:50:28,766 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.7% (7019298816/8192454656 bytes)
+2025-06-13 21:50:28,768 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:50:28,777 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:50:28,828 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:50:39,856 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 28.3%
+2025-06-13 21:50:39,860 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.1% (6971432960/8192454656 bytes)
+2025-06-13 21:50:39,862 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:50:39,869 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:50:39,907 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:50:50,916 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.9%
+2025-06-13 21:50:50,919 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.1% (6974554112/8192454656 bytes)
+2025-06-13 21:50:50,922 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:50:50,930 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:50:50,981 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:51:01,996 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 46.3%
+2025-06-13 21:51:02,001 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.6% (7009255424/8192454656 bytes)
+2025-06-13 21:51:02,002 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:51:02,009 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:51:02,049 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:51:13,081 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 29.5%
+2025-06-13 21:51:13,084 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.3% (7070396416/8192454656 bytes)
+2025-06-13 21:51:13,087 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:51:13,095 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:51:13,144 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:51:24,147 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 23.6%
+2025-06-13 21:51:24,152 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.2% (7064883200/8192454656 bytes)
+2025-06-13 21:51:24,153 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:51:24,161 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:51:24,200 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:51:35,198 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 22.1%
+2025-06-13 21:51:35,202 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.7% (7103827968/8192454656 bytes)
+2025-06-13 21:51:35,204 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:51:35,212 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:51:35,256 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:51:46,267 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 22.6%
+2025-06-13 21:51:46,271 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.9% (7279095808/8192454656 bytes)
+2025-06-13 21:51:46,273 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:51:46,280 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:51:46,322 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:51:57,326 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 28.8%
+2025-06-13 21:51:57,335 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.2% (7311597568/8192454656 bytes)
+2025-06-13 21:51:57,337 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:51:57,345 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:51:57,396 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:52:08,400 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 21.8%
+2025-06-13 21:52:08,404 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.6% (7336878080/8192454656 bytes)
+2025-06-13 21:52:08,405 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:52:08,411 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:52:08,459 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:52:19,475 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 32.2%
+2025-06-13 21:52:19,478 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.6% (7425396736/8192454656 bytes)
+2025-06-13 21:52:19,480 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:52:19,486 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:52:19,540 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:52:30,541 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.0%
+2025-06-13 21:52:30,545 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.7% (7429758976/8192454656 bytes)
+2025-06-13 21:52:30,546 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:52:30,553 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:52:30,593 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:52:30,594 - app - DEBUG - app.py:702 - check_and_send_alerts() - Checking alerts...
+2025-06-13 21:52:30,594 - app - DEBUG - app.py:706 - check_and_send_alerts() - Error rate: 0.0% (threshold: 50.0%)
+2025-06-13 21:52:41,616 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 19.7%
+2025-06-13 21:52:41,620 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.5% (7329898496/8192454656 bytes)
+2025-06-13 21:52:41,621 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:52:41,629 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:52:41,668 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:52:52,681 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 14.1%
+2025-06-13 21:52:52,684 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.2% (7474364416/8192454656 bytes)
+2025-06-13 21:52:52,685 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:52:52,693 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:52:52,747 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:53:03,740 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.5%
+2025-06-13 21:53:03,744 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.1% (7460843520/8192454656 bytes)
+2025-06-13 21:53:03,745 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:53:03,752 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:53:03,794 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:53:14,786 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 30.3%
+2025-06-13 21:53:14,790 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.8% (7441563648/8192454656 bytes)
+2025-06-13 21:53:14,791 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:53:14,798 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:53:14,839 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:53:25,831 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 43.4%
+2025-06-13 21:53:25,840 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.1% (7710142464/8192454656 bytes)
+2025-06-13 21:53:25,841 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:53:25,848 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:53:25,896 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:53:36,903 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 37.7%
+2025-06-13 21:53:36,906 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.4% (7733682176/8192454656 bytes)
+2025-06-13 21:53:36,908 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:53:36,914 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:53:36,972 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:53:47,996 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 30.0%
+2025-06-13 21:53:47,999 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.8% (7522050048/8192454656 bytes)
+2025-06-13 21:53:47,999 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:53:48,005 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:53:48,047 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:53:59,036 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.5%
+2025-06-13 21:53:59,038 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.4% (7489511424/8192454656 bytes)
+2025-06-13 21:53:59,039 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:53:59,044 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:53:59,080 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:54:10,086 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.1%
+2025-06-13 21:54:10,089 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.8% (7437332480/8192454656 bytes)
+2025-06-13 21:54:10,089 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:54:10,095 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:54:10,130 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:54:21,132 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 16.8%
+2025-06-13 21:54:21,135 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.1% (7542317056/8192454656 bytes)
+2025-06-13 21:54:21,135 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:54:21,141 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:54:21,181 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:54:32,193 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 23.7%
+2025-06-13 21:54:32,195 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.5% (7581364224/8192454656 bytes)
+2025-06-13 21:54:32,196 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:54:32,201 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:54:32,235 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:54:43,231 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 54.7%
+2025-06-13 21:54:43,235 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.1% (7547629568/8192454656 bytes)
+2025-06-13 21:54:43,236 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:54:43,242 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:54:43,285 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:54:54,305 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 24.7%
+2025-06-13 21:54:54,310 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.8% (7605837824/8192454656 bytes)
+2025-06-13 21:54:54,311 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:54:54,323 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:54:54,372 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:55:05,378 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.2%
+2025-06-13 21:55:05,381 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.8% (7599607808/8192454656 bytes)
+2025-06-13 21:55:05,384 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:55:05,391 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:55:05,441 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:55:16,464 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 46.1%
+2025-06-13 21:55:16,469 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.2% (7307411456/8192454656 bytes)
+2025-06-13 21:55:16,470 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:55:16,479 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:55:16,523 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:55:27,525 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 53.6%
+2025-06-13 21:55:27,529 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.6% (7668748288/8192454656 bytes)
+2025-06-13 21:55:27,530 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:55:27,538 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:55:27,590 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:55:38,602 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 63.4%
+2025-06-13 21:55:38,606 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.5% (7740039168/8192454656 bytes)
+2025-06-13 21:55:38,607 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:55:38,614 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:55:38,653 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:55:38,810 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown initiated at 2025-06-13T21:55:38.810086
+2025-06-13 21:55:38,811 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:55:38.810086
+2025-06-13 21:55:38,815 - app - INFO - app.py:1687 - shutdown_event() - Shutting down ML Model API...
+2025-06-13 21:55:38,816 - app - INFO - app.py:1691 - shutdown_event() - === FINAL STATISTICS BEFORE SHUTDOWN ===
+2025-06-13 21:55:38,816 - app - INFO - app.py:1694 - shutdown_event() - Total requests processed: 0
+2025-06-13 21:55:38,817 - app - INFO - app.py:1695 - shutdown_event() - Total errors: 0
+2025-06-13 21:55:38,817 - app - INFO - app.py:1696 - shutdown_event() - Total model inferences: 0
+2025-06-13 21:55:38,822 - app - INFO - app.py:1702 - shutdown_event() - Final system state - CPU: 49.1%, Memory: 94.5%
+2025-06-13 21:55:38,823 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === Final stats - CPU: 49.1%, Memory: 94.5%
+2025-06-13 21:55:38,824 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: Final stats - CPU: 49.1%, Memory: 94.5%
+2025-06-13 21:55:38,825 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown completed
+2025-06-13 21:55:38,825 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown completed
+2025-06-13 21:55:38,826 - app - INFO - app.py:1711 - shutdown_event() - ML Model API shutdown completed
+2025-06-13 21:55:49,383 - app - INFO - app.py:119 - <module>() - === ML API Logging System Initialized ===
+2025-06-13 21:55:49,384 - app - INFO - app.py:120 - <module>() - Platform: Windows
+2025-06-13 21:55:49,384 - app - INFO - app.py:121 - <module>() - Handlers configured: 5
+2025-06-13 21:55:49,385 - app - INFO - app.py:123 - <module>() -   Handler 1: FileHandler - Level: DEBUG
+2025-06-13 21:55:49,385 - app - INFO - app.py:123 - <module>() -   Handler 2: StreamHandler - Level: INFO
+2025-06-13 21:55:49,386 - app - INFO - app.py:123 - <module>() -   Handler 3: StreamHandler - Level: ERROR
+2025-06-13 21:55:49,386 - app - INFO - app.py:123 - <module>() -   Handler 4: RotatingFileHandler - Level: DEBUG
+2025-06-13 21:55:49,388 - app - INFO - app.py:123 - <module>() -   Handler 5: RotatingFileHandler - Level: WARNING
+2025-06-13 21:55:49,388 - app - WARNING - app.py:126 - <module>() - System logging test - this should appear in syslog
+2025-06-13 21:55:50,437 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API with Monitoring started at 2025-06-13T21:55:50.437777
+2025-06-13 21:55:50,438 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:55:50.437777
+2025-06-13 21:55:50,439 - app - INFO - app.py:1636 - startup_event() - Starting ML Model API with System Monitoring...
+2025-06-13 21:55:51,565 - app - INFO - app.py:1643 - startup_event() - Model loaded successfully
+2025-06-13 21:55:51,566 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [model_load] === Model loaded from ./checkpoints/best_model_logging_demo.pth
+2025-06-13 21:55:51,568 - app - INFO - app.py:1651 - startup_event() - Background monitoring task started
+2025-06-13 21:55:51,569 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [monitoring] === Background monitoring task initialized
+2025-06-13 21:55:52,571 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 25.6%
+2025-06-13 21:55:52,577 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.3% (7723556864/8192454656 bytes)
+2025-06-13 21:55:52,579 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:55:52,592 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:55:52,876 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:55:52,876 - app - INFO - app.py:1656 - startup_event() - Initial system metrics collected
+2025-06-13 21:55:52,877 - app - INFO - app.py:1659 - startup_event() - Testing logging system on startup...
+2025-06-13 21:55:52,878 - app - DEBUG - app.py:861 - test_all_log_levels() - LOG TEST [DEBUG]: Debug level test message
+2025-06-13 21:55:52,878 - app - INFO - app.py:861 - test_all_log_levels() - LOG TEST [INFO]: Info level test message
+2025-06-13 21:55:52,879 - app - WARNING - app.py:861 - test_all_log_levels() - LOG TEST [WARNING]: Warning level test message
+2025-06-13 21:55:52,879 - app - ERROR - app.py:861 - test_all_log_levels() - LOG TEST [ERROR]: Error level test message
+2025-06-13 21:55:52,880 - app - CRITICAL - app.py:861 - test_all_log_levels() - LOG TEST [CRITICAL]: Critical level test message
+2025-06-13 21:55:52,882 - app - INFO - app.py:1662 - startup_event() - Logging test results: {'DEBUG': 'success', 'INFO': 'success', 'WARNING': 'success', 'ERROR': 'success', 'CRITICAL': 'success'}
+2025-06-13 21:55:52,883 - app - INFO - app.py:1667 - startup_event() - Initializing Gmail alerting system...
+2025-06-13 21:55:52,884 - app - INFO - app.py:1669 - startup_event() - Gmail alerts ENABLED - User: hellonghia321@gmail.com
+2025-06-13 21:55:52,884 - app - INFO - app.py:1670 - startup_event() - Recipients: 1 email(s)
+2025-06-13 21:55:52,885 - app - INFO - app.py:1671 - startup_event() - Thresholds - Error Rate: 50.0%, Confidence: 0.6
+2025-06-13 21:55:52,886 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === Gmail alerting system initialized - Enabled: True
+2025-06-13 21:55:52,888 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+2025-06-13 21:55:52,890 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API startup completed successfully
+2025-06-13 21:55:52,891 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API startup completed successfully
+2025-06-13 21:55:53,893 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 27.0%
+2025-06-13 21:55:53,899 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7697207296/8192454656 bytes)
+2025-06-13 21:55:53,900 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:55:53,911 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:55:53,951 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:56:04,948 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 24.0%
+2025-06-13 21:56:04,954 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.5% (7745810432/8192454656 bytes)
+2025-06-13 21:56:04,955 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:56:04,967 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:56:05,013 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:56:16,016 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 35.5%
+2025-06-13 21:56:16,022 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 96.0% (7864586240/8192454656 bytes)
+2025-06-13 21:56:16,023 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:56:16,031 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:56:16,092 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:56:27,099 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 23.7%
+2025-06-13 21:56:27,104 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 96.0% (7868661760/8192454656 bytes)
+2025-06-13 21:56:27,105 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:56:27,113 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:56:27,162 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:56:38,175 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 18.9%
+2025-06-13 21:56:38,180 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 96.0% (7864500224/8192454656 bytes)
+2025-06-13 21:56:38,181 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:56:38,192 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:56:38,237 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:56:44,779 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown initiated at 2025-06-13T21:56:44.779957
+2025-06-13 21:56:44,780 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T21:56:44.779957
+2025-06-13 21:56:44,781 - app - INFO - app.py:1687 - shutdown_event() - Shutting down ML Model API...
+2025-06-13 21:56:44,782 - app - INFO - app.py:1691 - shutdown_event() - === FINAL STATISTICS BEFORE SHUTDOWN ===
+2025-06-13 21:56:44,782 - app - INFO - app.py:1694 - shutdown_event() - Total requests processed: 0
+2025-06-13 21:56:44,783 - app - INFO - app.py:1695 - shutdown_event() - Total errors: 0
+2025-06-13 21:56:44,783 - app - INFO - app.py:1696 - shutdown_event() - Total model inferences: 0
+2025-06-13 21:56:44,787 - app - INFO - app.py:1702 - shutdown_event() - Final system state - CPU: 42.2%, Memory: 96.0%
+2025-06-13 21:56:44,788 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === Final stats - CPU: 42.2%, Memory: 96.0%
+2025-06-13 21:56:44,789 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: Final stats - CPU: 42.2%, Memory: 96.0%
+2025-06-13 21:56:44,790 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown completed
+2025-06-13 21:56:44,790 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown completed
+2025-06-13 21:56:44,791 - app - INFO - app.py:1711 - shutdown_event() - ML Model API shutdown completed
+2025-06-13 21:56:51,887 - app - INFO - app.py:119 - <module>() - === ML API Logging System Initialized ===
+2025-06-13 21:56:51,888 - app - INFO - app.py:120 - <module>() - Platform: Windows
+2025-06-13 21:56:51,888 - app - INFO - app.py:121 - <module>() - Handlers configured: 5
+2025-06-13 21:56:51,889 - app - INFO - app.py:123 - <module>() -   Handler 1: FileHandler - Level: DEBUG
+2025-06-13 21:56:51,889 - app - INFO - app.py:123 - <module>() -   Handler 2: StreamHandler - Level: INFO
+2025-06-13 21:56:51,890 - app - INFO - app.py:123 - <module>() -   Handler 3: StreamHandler - Level: ERROR
+2025-06-13 21:56:51,891 - app - INFO - app.py:123 - <module>() -   Handler 4: RotatingFileHandler - Level: DEBUG
+2025-06-13 21:56:51,892 - app - INFO - app.py:123 - <module>() -   Handler 5: RotatingFileHandler - Level: WARNING
+2025-06-13 21:56:51,893 - app - WARNING - app.py:126 - <module>() - System logging test - this should appear in syslog
+2025-06-13 21:56:52,633 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API with Monitoring started at 2025-06-13T21:56:52.633330
+2025-06-13 21:56:52,634 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T21:56:52.633330
+2025-06-13 21:56:52,636 - app - INFO - app.py:1636 - startup_event() - Starting ML Model API with System Monitoring...
+2025-06-13 21:56:53,469 - app - INFO - app.py:1643 - startup_event() - Model loaded successfully
+2025-06-13 21:56:53,472 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [model_load] === Model loaded from ./checkpoints/best_model_logging_demo.pth
+2025-06-13 21:56:53,474 - app - INFO - app.py:1651 - startup_event() - Background monitoring task started
+2025-06-13 21:56:53,476 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [monitoring] === Background monitoring task initialized
+2025-06-13 21:56:54,479 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 29.0%
+2025-06-13 21:56:54,482 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.2% (7719104512/8192454656 bytes)
+2025-06-13 21:56:54,483 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:56:54,495 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:56:54,746 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:56:54,746 - app - INFO - app.py:1656 - startup_event() - Initial system metrics collected
+2025-06-13 21:56:54,748 - app - INFO - app.py:1659 - startup_event() - Testing logging system on startup...
+2025-06-13 21:56:54,748 - app - DEBUG - app.py:861 - test_all_log_levels() - LOG TEST [DEBUG]: Debug level test message
+2025-06-13 21:56:54,749 - app - INFO - app.py:861 - test_all_log_levels() - LOG TEST [INFO]: Info level test message
+2025-06-13 21:56:54,749 - app - WARNING - app.py:861 - test_all_log_levels() - LOG TEST [WARNING]: Warning level test message
+2025-06-13 21:56:54,751 - app - ERROR - app.py:861 - test_all_log_levels() - LOG TEST [ERROR]: Error level test message
+2025-06-13 21:56:54,751 - app - CRITICAL - app.py:861 - test_all_log_levels() - LOG TEST [CRITICAL]: Critical level test message
+2025-06-13 21:56:54,752 - app - INFO - app.py:1662 - startup_event() - Logging test results: {'DEBUG': 'success', 'INFO': 'success', 'WARNING': 'success', 'ERROR': 'success', 'CRITICAL': 'success'}
+2025-06-13 21:56:54,753 - app - INFO - app.py:1667 - startup_event() - Initializing Gmail alerting system...
+2025-06-13 21:56:54,754 - app - INFO - app.py:1669 - startup_event() - Gmail alerts ENABLED - User: hellonghia321@gmail.com
+2025-06-13 21:56:54,755 - app - INFO - app.py:1670 - startup_event() - Recipients: 1 email(s)
+2025-06-13 21:56:54,755 - app - INFO - app.py:1671 - startup_event() - Thresholds - Error Rate: 50.0%, Confidence: 0.6
+2025-06-13 21:56:54,756 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === Gmail alerting system initialized - Enabled: True
+2025-06-13 21:56:54,756 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+2025-06-13 21:56:54,757 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API startup completed successfully
+2025-06-13 21:56:54,758 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API startup completed successfully
+2025-06-13 21:56:55,769 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.4%
+2025-06-13 21:56:55,772 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.3% (7728209920/8192454656 bytes)
+2025-06-13 21:56:55,774 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:56:55,780 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:56:55,823 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:57:06,844 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.2%
+2025-06-13 21:57:06,847 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.6% (7752540160/8192454656 bytes)
+2025-06-13 21:57:06,849 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:57:06,856 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:57:06,906 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:57:17,910 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 57.8%
+2025-06-13 21:57:17,914 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.8% (7682879488/8192454656 bytes)
+2025-06-13 21:57:17,915 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:57:17,922 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:57:17,976 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:57:28,977 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 9.4%
+2025-06-13 21:57:28,981 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.5% (7742103552/8192454656 bytes)
+2025-06-13 21:57:28,982 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:57:28,990 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:57:29,038 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:57:40,052 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 2.9%
+2025-06-13 21:57:40,056 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7701405696/8192454656 bytes)
+2025-06-13 21:57:40,056 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:57:40,063 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:57:40,114 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:57:51,136 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.3%
+2025-06-13 21:57:51,140 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.5% (7660347392/8192454656 bytes)
+2025-06-13 21:57:51,141 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:57:51,147 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:57:51,188 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:58:02,205 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.1%
+2025-06-13 21:58:02,209 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.2% (7637549056/8192454656 bytes)
+2025-06-13 21:58:02,210 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:58:02,216 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:58:02,256 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:58:13,266 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 43.6%
+2025-06-13 21:58:13,269 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.8% (7600336896/8192454656 bytes)
+2025-06-13 21:58:13,269 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:58:13,274 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:58:13,318 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:58:24,345 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 21.7%
+2025-06-13 21:58:24,348 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.5% (7577939968/8192454656 bytes)
+2025-06-13 21:58:24,349 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:58:24,354 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:58:24,391 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:58:35,403 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.5%
+2025-06-13 21:58:35,408 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.2% (7391547392/8192454656 bytes)
+2025-06-13 21:58:35,409 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:58:35,421 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:58:35,468 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:58:46,462 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.7%
+2025-06-13 21:58:46,465 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7702966272/8192454656 bytes)
+2025-06-13 21:58:46,465 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:58:46,470 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:58:46,511 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:58:57,521 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 12.7%
+2025-06-13 21:58:57,525 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.6% (7753342976/8192454656 bytes)
+2025-06-13 21:58:57,526 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:58:57,532 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:58:57,587 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:59:08,581 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 35.3%
+2025-06-13 21:59:08,585 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 95.3% (7808434176/8192454656 bytes)
+2025-06-13 21:59:08,586 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:59:08,591 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:59:08,655 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:59:19,647 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.7%
+2025-06-13 21:59:19,651 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 96.0% (7863861248/8192454656 bytes)
+2025-06-13 21:59:19,652 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:59:19,660 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:59:19,716 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:59:30,729 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.2%
+2025-06-13 21:59:30,732 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 96.0% (7863169024/8192454656 bytes)
+2025-06-13 21:59:30,734 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:59:30,742 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:59:30,793 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:59:30,796 - app - DEBUG - app.py:702 - check_and_send_alerts() - Checking alerts...
+2025-06-13 21:59:30,796 - app - DEBUG - app.py:706 - check_and_send_alerts() - Error rate: 0.0% (threshold: 50.0%)
+2025-06-13 21:59:34,061 - app - INFO - app.py:682 - send_gmail_alert() - Gmail alert sent successfully: CRITICAL: High Memory
+2025-06-13 21:59:45,072 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 17.7%
+2025-06-13 21:59:45,076 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7704203264/8192454656 bytes)
+2025-06-13 21:59:45,076 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:59:45,082 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:59:45,124 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 21:59:56,113 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.9%
+2025-06-13 21:59:56,116 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.3% (7724285952/8192454656 bytes)
+2025-06-13 21:59:56,117 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 21:59:56,121 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 21:59:56,167 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:00:07,181 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 3.7%
+2025-06-13 22:00:07,186 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.2% (7713751040/8192454656 bytes)
+2025-06-13 22:00:07,187 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:00:07,197 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:00:07,244 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:00:18,265 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.6%
+2025-06-13 22:00:18,268 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.3% (6987202560/8192454656 bytes)
+2025-06-13 22:00:18,269 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:00:18,275 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:00:18,310 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:00:29,321 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.5%
+2025-06-13 22:00:29,327 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.1% (7050350592/8192454656 bytes)
+2025-06-13 22:00:29,327 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:00:29,333 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:00:29,369 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:00:40,384 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 21.2%
+2025-06-13 22:00:40,386 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.9% (7115993088/8192454656 bytes)
+2025-06-13 22:00:40,387 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:00:40,392 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:00:40,434 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:00:51,449 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 3.9%
+2025-06-13 22:00:51,452 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.2% (7141736448/8192454656 bytes)
+2025-06-13 22:00:51,453 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:00:51,458 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:00:51,497 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:01:02,505 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.9%
+2025-06-13 22:01:02,507 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.4% (7159156736/8192454656 bytes)
+2025-06-13 22:01:02,508 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:01:02,514 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:01:02,568 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:01:13,581 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 19.8%
+2025-06-13 22:01:13,587 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.2% (7635746816/8192454656 bytes)
+2025-06-13 22:01:13,588 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:01:13,602 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:01:13,655 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:01:24,655 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 17.3%
+2025-06-13 22:01:24,659 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.4% (7648571392/8192454656 bytes)
+2025-06-13 22:01:24,660 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:01:24,667 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:01:24,712 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:01:35,706 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 22.9%
+2025-06-13 22:01:35,711 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.6% (7588794368/8192454656 bytes)
+2025-06-13 22:01:35,712 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:01:35,720 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:01:35,769 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:01:46,763 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 26.3%
+2025-06-13 22:01:46,766 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.0% (7533445120/8192454656 bytes)
+2025-06-13 22:01:46,769 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:01:46,777 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:01:46,827 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:01:57,821 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.5%
+2025-06-13 22:01:57,825 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.8% (7516729344/8192454656 bytes)
+2025-06-13 22:01:57,826 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:01:57,834 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:01:57,873 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:02:08,875 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 25.3%
+2025-06-13 22:02:08,879 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.9% (7530950656/8192454656 bytes)
+2025-06-13 22:02:08,881 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:02:08,890 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:02:08,942 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:02:19,958 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 27.9%
+2025-06-13 22:02:19,962 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.1% (7629053952/8192454656 bytes)
+2025-06-13 22:02:19,963 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:02:19,972 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:02:20,030 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:02:31,044 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.5%
+2025-06-13 22:02:31,047 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.4% (7648616448/8192454656 bytes)
+2025-06-13 22:02:31,048 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:02:31,058 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:02:31,104 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:02:42,109 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.0%
+2025-06-13 22:02:42,113 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.7% (7514402816/8192454656 bytes)
+2025-06-13 22:02:42,114 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:02:42,121 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:02:42,159 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:02:53,181 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 16.6%
+2025-06-13 22:02:53,185 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.4% (7490842624/8192454656 bytes)
+2025-06-13 22:02:53,186 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:02:53,195 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:02:53,246 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:03:04,252 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 16.9%
+2025-06-13 22:03:04,255 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.7% (7509696512/8192454656 bytes)
+2025-06-13 22:03:04,256 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:03:04,265 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:03:04,314 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:03:15,332 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 26.0%
+2025-06-13 22:03:15,337 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.1% (7541784576/8192454656 bytes)
+2025-06-13 22:03:15,337 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:03:15,344 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:03:15,399 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:03:26,408 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 33.0%
+2025-06-13 22:03:26,412 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.2% (7551877120/8192454656 bytes)
+2025-06-13 22:03:26,413 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:03:26,420 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:03:26,460 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:03:37,481 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 14.8%
+2025-06-13 22:03:37,484 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.0% (7538438144/8192454656 bytes)
+2025-06-13 22:03:37,485 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:03:37,493 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:03:37,543 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:03:48,540 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.5%
+2025-06-13 22:03:48,544 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.9% (7531970560/8192454656 bytes)
+2025-06-13 22:03:48,545 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:03:48,552 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:03:48,588 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:03:59,597 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.7%
+2025-06-13 22:03:59,601 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.3% (7563587584/8192454656 bytes)
+2025-06-13 22:03:59,602 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:03:59,610 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:03:59,654 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:04:10,647 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.7%
+2025-06-13 22:04:10,651 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.0% (7617007616/8192454656 bytes)
+2025-06-13 22:04:10,652 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:04:10,659 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:04:10,697 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:04:21,691 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.8%
+2025-06-13 22:04:21,694 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.2% (7636697088/8192454656 bytes)
+2025-06-13 22:04:21,694 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:04:21,700 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:04:21,737 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:04:32,750 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 16.5%
+2025-06-13 22:04:32,752 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.1% (7628718080/8192454656 bytes)
+2025-06-13 22:04:32,753 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:04:32,759 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:04:32,800 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:04:43,808 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 10.4%
+2025-06-13 22:04:43,813 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.1% (7706066944/8192454656 bytes)
+2025-06-13 22:04:43,814 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:04:43,821 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:04:43,870 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:04:54,870 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.1%
+2025-06-13 22:04:54,873 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.2% (7720685568/8192454656 bytes)
+2025-06-13 22:04:54,874 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:04:54,879 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:04:54,927 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:05:05,938 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 32.9%
+2025-06-13 22:05:05,942 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7703523328/8192454656 bytes)
+2025-06-13 22:05:05,944 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:05:05,949 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:05:05,986 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:05:16,988 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.9%
+2025-06-13 22:05:16,991 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.1% (7057010688/8192454656 bytes)
+2025-06-13 22:05:16,992 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:05:16,997 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:05:17,044 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:05:28,052 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 12.3%
+2025-06-13 22:05:28,055 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.6% (7096963072/8192454656 bytes)
+2025-06-13 22:05:28,055 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:05:28,061 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:05:28,101 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:05:39,103 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.6%
+2025-06-13 22:05:39,106 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.7% (7100166144/8192454656 bytes)
+2025-06-13 22:05:39,107 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:05:39,113 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:05:39,153 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:05:50,168 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.3%
+2025-06-13 22:05:50,170 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.9% (7119237120/8192454656 bytes)
+2025-06-13 22:05:50,171 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:05:50,177 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:05:50,214 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:06:01,208 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.3%
+2025-06-13 22:06:01,211 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.1% (7138881536/8192454656 bytes)
+2025-06-13 22:06:01,212 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:06:01,218 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:06:01,253 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:06:12,274 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.9%
+2025-06-13 22:06:12,276 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.0% (7044403200/8192454656 bytes)
+2025-06-13 22:06:12,277 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:06:12,284 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:06:12,323 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:06:23,316 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 19.6%
+2025-06-13 22:06:23,319 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.4% (7082139648/8192454656 bytes)
+2025-06-13 22:06:23,319 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:06:23,326 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:06:23,363 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:06:34,374 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 31.5%
+2025-06-13 22:06:34,377 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.6% (7174647808/8192454656 bytes)
+2025-06-13 22:06:34,377 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:06:34,384 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:06:34,434 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:06:45,441 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.3%
+2025-06-13 22:06:45,444 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.6% (7254528000/8192454656 bytes)
+2025-06-13 22:06:45,445 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:06:45,450 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:06:45,492 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:06:56,497 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.9%
+2025-06-13 22:06:56,501 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.6% (7255330816/8192454656 bytes)
+2025-06-13 22:06:56,502 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:06:56,510 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:06:56,549 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:07:07,566 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 28.5%
+2025-06-13 22:07:07,570 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.5% (7253250048/8192454656 bytes)
+2025-06-13 22:07:07,571 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:07:07,579 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:07:07,630 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:07:18,644 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 23.5%
+2025-06-13 22:07:18,648 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.7% (7265140736/8192454656 bytes)
+2025-06-13 22:07:18,649 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:07:18,657 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:07:18,705 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:07:29,737 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 27.1%
+2025-06-13 22:07:29,741 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.0% (7374528512/8192454656 bytes)
+2025-06-13 22:07:29,742 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:07:29,762 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:07:29,817 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:07:40,822 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 14.7%
+2025-06-13 22:07:40,826 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.6% (7336808448/8192454656 bytes)
+2025-06-13 22:07:40,827 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:07:40,833 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:07:40,877 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:07:51,887 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.8%
+2025-06-13 22:07:51,890 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.5% (7334445056/8192454656 bytes)
+2025-06-13 22:07:51,891 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:07:51,898 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:07:51,936 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:08:02,941 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.4%
+2025-06-13 22:08:02,945 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.5% (7333814272/8192454656 bytes)
+2025-06-13 22:08:02,946 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:08:02,955 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:08:03,003 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:08:14,006 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 28.3%
+2025-06-13 22:08:14,008 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.5% (7415578624/8192454656 bytes)
+2025-06-13 22:08:14,009 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:08:14,014 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:08:14,059 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:08:25,075 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 17.3%
+2025-06-13 22:08:25,078 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.7% (7433732096/8192454656 bytes)
+2025-06-13 22:08:25,079 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:08:25,086 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:08:25,129 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:08:36,143 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 52.4%
+2025-06-13 22:08:36,146 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 95.2% (7799095296/8192454656 bytes)
+2025-06-13 22:08:36,147 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:08:36,154 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:08:36,207 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:08:47,227 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 54.2%
+2025-06-13 22:08:47,232 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 95.5% (7823392768/8192454656 bytes)
+2025-06-13 22:08:47,233 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:08:47,245 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:08:47,300 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:08:53,435 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown initiated at 2025-06-13T22:08:53.434997
+2025-06-13 22:08:53,437 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T22:08:53.434997
+2025-06-13 22:08:53,441 - app - INFO - app.py:1687 - shutdown_event() - Shutting down ML Model API...
+2025-06-13 22:08:53,441 - app - INFO - app.py:1691 - shutdown_event() - === FINAL STATISTICS BEFORE SHUTDOWN ===
+2025-06-13 22:08:53,442 - app - INFO - app.py:1694 - shutdown_event() - Total requests processed: 0
+2025-06-13 22:08:53,443 - app - INFO - app.py:1695 - shutdown_event() - Total errors: 0
+2025-06-13 22:08:53,443 - app - INFO - app.py:1696 - shutdown_event() - Total model inferences: 0
+2025-06-13 22:08:53,447 - app - INFO - app.py:1702 - shutdown_event() - Final system state - CPU: 31.6%, Memory: 95.6%
+2025-06-13 22:08:53,448 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === Final stats - CPU: 31.6%, Memory: 95.6%
+2025-06-13 22:08:53,448 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: Final stats - CPU: 31.6%, Memory: 95.6%
+2025-06-13 22:08:53,449 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown completed
+2025-06-13 22:08:53,450 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown completed
+2025-06-13 22:08:53,450 - app - INFO - app.py:1711 - shutdown_event() - ML Model API shutdown completed
+2025-06-13 22:57:01,592 - app - INFO - app.py:119 - <module>() - === ML API Logging System Initialized ===
+2025-06-13 22:57:01,593 - app - INFO - app.py:120 - <module>() - Platform: Windows
+2025-06-13 22:57:01,593 - app - INFO - app.py:121 - <module>() - Handlers configured: 5
+2025-06-13 22:57:01,594 - app - INFO - app.py:123 - <module>() -   Handler 1: FileHandler - Level: DEBUG
+2025-06-13 22:57:01,595 - app - INFO - app.py:123 - <module>() -   Handler 2: StreamHandler - Level: INFO
+2025-06-13 22:57:01,595 - app - INFO - app.py:123 - <module>() -   Handler 3: StreamHandler - Level: ERROR
+2025-06-13 22:57:01,596 - app - INFO - app.py:123 - <module>() -   Handler 4: RotatingFileHandler - Level: DEBUG
+2025-06-13 22:57:01,596 - app - INFO - app.py:123 - <module>() -   Handler 5: RotatingFileHandler - Level: WARNING
+2025-06-13 22:57:01,597 - app - WARNING - app.py:126 - <module>() - System logging test - this should appear in syslog
+2025-06-13 22:57:02,071 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API with Monitoring started at 2025-06-13T22:57:02.071286
+2025-06-13 22:57:02,071 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T22:57:02.071286
+2025-06-13 22:57:02,072 - app - INFO - app.py:1636 - startup_event() - Starting ML Model API with System Monitoring...
+2025-06-13 22:57:02,350 - app - INFO - app.py:1643 - startup_event() - Model loaded successfully
+2025-06-13 22:57:02,351 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [model_load] === Model loaded from ./checkpoints/best_model_logging_demo.pth
+2025-06-13 22:57:02,351 - app - INFO - app.py:1651 - startup_event() - Background monitoring task started
+2025-06-13 22:57:02,352 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [monitoring] === Background monitoring task initialized
+2025-06-13 22:57:03,355 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.2%
+2025-06-13 22:57:03,359 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.9% (7033430016/8192454656 bytes)
+2025-06-13 22:57:03,360 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:03,374 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:03,573 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:57:03,574 - app - INFO - app.py:1656 - startup_event() - Initial system metrics collected
+2025-06-13 22:57:03,574 - app - INFO - app.py:1659 - startup_event() - Testing logging system on startup...
+2025-06-13 22:57:03,575 - app - DEBUG - app.py:861 - test_all_log_levels() - LOG TEST [DEBUG]: Debug level test message
+2025-06-13 22:57:03,575 - app - INFO - app.py:861 - test_all_log_levels() - LOG TEST [INFO]: Info level test message
+2025-06-13 22:57:03,575 - app - WARNING - app.py:861 - test_all_log_levels() - LOG TEST [WARNING]: Warning level test message
+2025-06-13 22:57:03,576 - app - ERROR - app.py:861 - test_all_log_levels() - LOG TEST [ERROR]: Error level test message
+2025-06-13 22:57:03,576 - app - CRITICAL - app.py:861 - test_all_log_levels() - LOG TEST [CRITICAL]: Critical level test message
+2025-06-13 22:57:03,577 - app - INFO - app.py:1662 - startup_event() - Logging test results: {'DEBUG': 'success', 'INFO': 'success', 'WARNING': 'success', 'ERROR': 'success', 'CRITICAL': 'success'}
+2025-06-13 22:57:03,577 - app - INFO - app.py:1667 - startup_event() - Initializing Gmail alerting system...
+2025-06-13 22:57:03,577 - app - INFO - app.py:1669 - startup_event() - Gmail alerts ENABLED - User: hellonghia321@gmail.com
+2025-06-13 22:57:03,577 - app - INFO - app.py:1670 - startup_event() - Recipients: 1 email(s)
+2025-06-13 22:57:03,578 - app - INFO - app.py:1671 - startup_event() - Thresholds - Error Rate: 50.0%, Confidence: 0.6
+2025-06-13 22:57:03,578 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === Gmail alerting system initialized - Enabled: True
+2025-06-13 22:57:03,578 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+2025-06-13 22:57:03,579 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API startup completed successfully
+2025-06-13 22:57:03,579 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API startup completed successfully
+2025-06-13 22:57:04,581 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.9%
+2025-06-13 22:57:04,587 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.1% (7055114240/8192454656 bytes)
+2025-06-13 22:57:04,588 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:04,600 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:04,646 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:57:04,665 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /docs - Status: 200 - Duration: 0.000s - Request Size: 710B - Response Size: 952B
+2025-06-13 22:57:04,837 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /openapi.json - Status: 200 - Duration: 0.008s - Request Size: 568B - Response Size: 3540B
+2025-06-13 22:57:11,621 - app - INFO - app.py:1387 - test_logging_endpoint() - === LOGGING TEST INITIATED ===
+2025-06-13 22:57:11,622 - app - DEBUG - app.py:1390 - test_logging_endpoint() - DEBUG: This is a debug message
+2025-06-13 22:57:11,622 - app - INFO - app.py:1391 - test_logging_endpoint() - INFO: This is an info message
+2025-06-13 22:57:11,623 - app - WARNING - app.py:1392 - test_logging_endpoint() - WARNING: This is a warning message
+2025-06-13 22:57:11,623 - app - ERROR - app.py:1393 - test_logging_endpoint() - ERROR: This is an error message
+2025-06-13 22:57:11,624 - app - ERROR - app.py:1399 - test_logging_endpoint() - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+2025-06-13 22:57:11,626 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [test] === Manual logging test triggered
+2025-06-13 22:57:11,627 - app - INFO - app.py:1404 - test_logging_endpoint() - === LOGGING TEST COMPLETED ===
+2025-06-13 22:57:11,628 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /test-logging - Status: 200 - Duration: 0.008s - Request Size: 591B - Response Size: 240B
+2025-06-13 22:57:13,332 - app - INFO - app.py:1387 - test_logging_endpoint() - === LOGGING TEST INITIATED ===
+2025-06-13 22:57:13,333 - app - DEBUG - app.py:1390 - test_logging_endpoint() - DEBUG: This is a debug message
+2025-06-13 22:57:13,333 - app - INFO - app.py:1391 - test_logging_endpoint() - INFO: This is an info message
+2025-06-13 22:57:13,334 - app - WARNING - app.py:1392 - test_logging_endpoint() - WARNING: This is a warning message
+2025-06-13 22:57:13,334 - app - ERROR - app.py:1393 - test_logging_endpoint() - ERROR: This is an error message
+2025-06-13 22:57:13,335 - app - ERROR - app.py:1399 - test_logging_endpoint() - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+2025-06-13 22:57:13,336 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [test] === Manual logging test triggered
+2025-06-13 22:57:13,338 - app - INFO - app.py:1404 - test_logging_endpoint() - === LOGGING TEST COMPLETED ===
+2025-06-13 22:57:13,339 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /test-logging - Status: 200 - Duration: 0.007s - Request Size: 591B - Response Size: 240B
+2025-06-13 22:57:15,644 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 9.8%
+2025-06-13 22:57:15,650 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.2% (7143608320/8192454656 bytes)
+2025-06-13 22:57:15,651 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:15,661 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:15,709 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:57:22,844 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /health - Status: 200 - Duration: 0.004s - Request Size: 585B - Response Size: 87B
+2025-06-13 22:57:26,718 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.9%
+2025-06-13 22:57:26,722 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 88.0% (7212294144/8192454656 bytes)
+2025-06-13 22:57:26,723 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:26,735 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:26,780 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:57:26,785 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /health - Status: 200 - Duration: 0.004s - Request Size: 585B - Response Size: 88B
+2025-06-13 22:57:36,226 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /system-info - Status: 200 - Duration: 1.066s - Request Size: 590B - Response Size: 773B
+2025-06-13 22:57:37,765 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.4%
+2025-06-13 22:57:37,772 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.7% (7180873728/8192454656 bytes)
+2025-06-13 22:57:37,773 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:37,783 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:37,829 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:57:46,547 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /system-info - Status: 200 - Duration: 1.057s - Request Size: 590B - Response Size: 775B
+2025-06-13 22:57:48,851 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.1%
+2025-06-13 22:57:48,858 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.3% (7152787456/8192454656 bytes)
+2025-06-13 22:57:48,858 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:48,868 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:48,915 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:57:59,934 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.0%
+2025-06-13 22:57:59,938 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.2% (7143346176/8192454656 bytes)
+2025-06-13 22:57:59,939 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:57:59,949 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:57:59,996 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:58:11,005 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.8%
+2025-06-13 22:58:11,012 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.6% (7504035840/8192454656 bytes)
+2025-06-13 22:58:11,013 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:58:11,025 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:58:11,075 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:58:22,089 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 8.7%
+2025-06-13 22:58:22,093 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.1% (7709351936/8192454656 bytes)
+2025-06-13 22:58:22,094 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:58:22,101 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:58:22,155 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:58:33,164 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.3%
+2025-06-13 22:58:33,168 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7704223744/8192454656 bytes)
+2025-06-13 22:58:33,169 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:58:33,176 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:58:33,219 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:58:44,242 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.7%
+2025-06-13 22:58:44,247 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.7% (7590928384/8192454656 bytes)
+2025-06-13 22:58:44,248 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:58:44,254 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:58:44,300 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:58:55,323 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 10.3%
+2025-06-13 22:58:55,326 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.0% (7702335488/8192454656 bytes)
+2025-06-13 22:58:55,328 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:58:55,334 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:58:55,380 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:59:06,393 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.2%
+2025-06-13 22:59:06,397 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.4% (7569645568/8192454656 bytes)
+2025-06-13 22:59:06,398 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:59:06,409 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:59:06,469 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:59:09,504 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown initiated at 2025-06-13T22:59:09.504549
+2025-06-13 22:59:09,505 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T22:59:09.504549
+2025-06-13 22:59:09,506 - app - INFO - app.py:1687 - shutdown_event() - Shutting down ML Model API...
+2025-06-13 22:59:09,506 - app - INFO - app.py:1691 - shutdown_event() - === FINAL STATISTICS BEFORE SHUTDOWN ===
+2025-06-13 22:59:09,507 - app - INFO - app.py:1694 - shutdown_event() - Total requests processed: 0
+2025-06-13 22:59:09,507 - app - INFO - app.py:1695 - shutdown_event() - Total errors: 0
+2025-06-13 22:59:09,508 - app - INFO - app.py:1696 - shutdown_event() - Total model inferences: 0
+2025-06-13 22:59:09,511 - app - INFO - app.py:1702 - shutdown_event() - Final system state - CPU: 13.6%, Memory: 92.6%
+2025-06-13 22:59:09,511 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === Final stats - CPU: 13.6%, Memory: 92.6%
+2025-06-13 22:59:09,512 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: Final stats - CPU: 13.6%, Memory: 92.6%
+2025-06-13 22:59:09,513 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown completed
+2025-06-13 22:59:09,513 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown completed
+2025-06-13 22:59:09,514 - app - INFO - app.py:1711 - shutdown_event() - ML Model API shutdown completed
+2025-06-13 22:59:45,181 - app - INFO - app.py:119 - <module>() - === ML API Logging System Initialized ===
+2025-06-13 22:59:45,181 - app - INFO - app.py:120 - <module>() - Platform: Windows
+2025-06-13 22:59:45,181 - app - INFO - app.py:121 - <module>() - Handlers configured: 5
+2025-06-13 22:59:45,182 - app - INFO - app.py:123 - <module>() -   Handler 1: FileHandler - Level: DEBUG
+2025-06-13 22:59:45,182 - app - INFO - app.py:123 - <module>() -   Handler 2: StreamHandler - Level: INFO
+2025-06-13 22:59:45,182 - app - INFO - app.py:123 - <module>() -   Handler 3: StreamHandler - Level: ERROR
+2025-06-13 22:59:45,183 - app - INFO - app.py:123 - <module>() -   Handler 4: RotatingFileHandler - Level: DEBUG
+2025-06-13 22:59:45,183 - app - INFO - app.py:123 - <module>() -   Handler 5: RotatingFileHandler - Level: WARNING
+2025-06-13 22:59:45,184 - app - WARNING - app.py:126 - <module>() - System logging test - this should appear in syslog
+2025-06-13 22:59:45,630 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API with Monitoring started at 2025-06-13T22:59:45.630300
+2025-06-13 22:59:45,631 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API with Monitoring started at 2025-06-13T22:59:45.630300
+2025-06-13 22:59:45,631 - app - INFO - app.py:1636 - startup_event() - Starting ML Model API with System Monitoring...
+2025-06-13 22:59:45,910 - app - INFO - app.py:1643 - startup_event() - Model loaded successfully
+2025-06-13 22:59:45,910 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [model_load] === Model loaded from ./checkpoints/best_model_logging_demo.pth
+2025-06-13 22:59:45,911 - app - INFO - app.py:1651 - startup_event() - Background monitoring task started
+2025-06-13 22:59:45,911 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [monitoring] === Background monitoring task initialized
+2025-06-13 22:59:46,912 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 22.9%
+2025-06-13 22:59:46,919 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.5% (7494426624/8192454656 bytes)
+2025-06-13 22:59:46,921 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:59:46,933 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:59:47,070 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:59:47,071 - app - INFO - app.py:1656 - startup_event() - Initial system metrics collected
+2025-06-13 22:59:47,071 - app - INFO - app.py:1659 - startup_event() - Testing logging system on startup...
+2025-06-13 22:59:47,072 - app - DEBUG - app.py:861 - test_all_log_levels() - LOG TEST [DEBUG]: Debug level test message
+2025-06-13 22:59:47,072 - app - INFO - app.py:861 - test_all_log_levels() - LOG TEST [INFO]: Info level test message
+2025-06-13 22:59:47,072 - app - WARNING - app.py:861 - test_all_log_levels() - LOG TEST [WARNING]: Warning level test message
+2025-06-13 22:59:47,073 - app - ERROR - app.py:861 - test_all_log_levels() - LOG TEST [ERROR]: Error level test message
+2025-06-13 22:59:47,073 - app - CRITICAL - app.py:861 - test_all_log_levels() - LOG TEST [CRITICAL]: Critical level test message
+2025-06-13 22:59:47,074 - app - INFO - app.py:1662 - startup_event() - Logging test results: {'DEBUG': 'success', 'INFO': 'success', 'WARNING': 'success', 'ERROR': 'success', 'CRITICAL': 'success'}
+2025-06-13 22:59:47,074 - app - INFO - app.py:1667 - startup_event() - Initializing Gmail alerting system...
+2025-06-13 22:59:47,074 - app - INFO - app.py:1669 - startup_event() - Gmail alerts ENABLED - User: hellonghia321@gmail.com
+2025-06-13 22:59:47,075 - app - INFO - app.py:1670 - startup_event() - Recipients: 1 email(s)
+2025-06-13 22:59:47,075 - app - INFO - app.py:1671 - startup_event() - Thresholds - Error Rate: 50.0%, Confidence: 0.6
+2025-06-13 22:59:47,075 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === Gmail alerting system initialized - Enabled: True
+2025-06-13 22:59:47,076 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: Gmail alerting system initialized - Enabled: True
+2025-06-13 22:59:47,076 - app - INFO - app.py:871 - log_system_event() - === SYSTEM STARTUP === ML Model API startup completed successfully
+2025-06-13 22:59:47,077 - app - WARNING - app.py:872 - log_system_event() - System startup event logged to syslog: ML Model API startup completed successfully
+2025-06-13 22:59:48,079 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 20.8%
+2025-06-13 22:59:48,082 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.3% (7476842496/8192454656 bytes)
+2025-06-13 22:59:48,083 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:59:48,088 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:59:48,130 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:59:54,769 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET / - Status: 404 - Duration: 0.001s - Request Size: 682B - Response Size: 22B
+2025-06-13 22:59:59,133 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.2%
+2025-06-13 22:59:59,136 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.1% (7460777984/8192454656 bytes)
+2025-06-13 22:59:59,137 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 22:59:59,142 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 22:59:59,182 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 22:59:59,183 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /docs - Status: 200 - Duration: 0.001s - Request Size: 734B - Response Size: 952B
+2025-06-13 22:59:59,324 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /openapi.json - Status: 200 - Duration: 0.005s - Request Size: 616B - Response Size: 3540B
+2025-06-13 23:00:10,182 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 6.4%
+2025-06-13 23:00:10,186 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.6% (7504601088/8192454656 bytes)
+2025-06-13 23:00:10,187 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:00:10,195 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:00:10,232 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:00:12,720 - app - INFO - app.py:1387 - test_logging_endpoint() - === LOGGING TEST INITIATED ===
+2025-06-13 23:00:12,721 - app - DEBUG - app.py:1390 - test_logging_endpoint() - DEBUG: This is a debug message
+2025-06-13 23:00:12,721 - app - INFO - app.py:1391 - test_logging_endpoint() - INFO: This is an info message
+2025-06-13 23:00:12,722 - app - WARNING - app.py:1392 - test_logging_endpoint() - WARNING: This is a warning message
+2025-06-13 23:00:12,722 - app - ERROR - app.py:1393 - test_logging_endpoint() - ERROR: This is an error message
+2025-06-13 23:00:12,724 - app - ERROR - app.py:1399 - test_logging_endpoint() - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+2025-06-13 23:00:12,727 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [test] === Manual logging test triggered
+2025-06-13 23:00:12,728 - app - INFO - app.py:1404 - test_logging_endpoint() - === LOGGING TEST COMPLETED ===
+2025-06-13 23:00:12,729 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /test-logging - Status: 200 - Duration: 0.009s - Request Size: 591B - Response Size: 239B
+2025-06-13 23:00:14,113 - app - INFO - app.py:1387 - test_logging_endpoint() - === LOGGING TEST INITIATED ===
+2025-06-13 23:00:14,114 - app - DEBUG - app.py:1390 - test_logging_endpoint() - DEBUG: This is a debug message
+2025-06-13 23:00:14,114 - app - INFO - app.py:1391 - test_logging_endpoint() - INFO: This is an info message
+2025-06-13 23:00:14,115 - app - WARNING - app.py:1392 - test_logging_endpoint() - WARNING: This is a warning message
+2025-06-13 23:00:14,116 - app - ERROR - app.py:1393 - test_logging_endpoint() - ERROR: This is an error message
+2025-06-13 23:00:14,116 - app - ERROR - app.py:1399 - test_logging_endpoint() - EXCEPTION TEST: Caught test exception
+Traceback (most recent call last):
+  File "C:\htN\UIT\lastyear\[MLOps]CS317\LAB\03\app.py", line 1397, in test_logging_endpoint
+    raise ValueError("Test exception for logging")
+ValueError: Test exception for logging
+2025-06-13 23:00:14,118 - app - INFO - app.py:881 - log_system_event() - === SYSTEM EVENT [test] === Manual logging test triggered
+2025-06-13 23:00:14,118 - app - INFO - app.py:1404 - test_logging_endpoint() - === LOGGING TEST COMPLETED ===
+2025-06-13 23:00:14,119 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /test-logging - Status: 200 - Duration: 0.006s - Request Size: 591B - Response Size: 239B
+2025-06-13 23:00:21,235 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.3%
+2025-06-13 23:00:21,240 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 91.8% (7520382976/8192454656 bytes)
+2025-06-13 23:00:21,241 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:00:21,251 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:00:21,300 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:00:25,991 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: GET /system-info - Status: 200 - Duration: 1.054s - Request Size: 590B - Response Size: 773B
+2025-06-13 23:00:32,324 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 3.9%
+2025-06-13 23:00:32,327 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 85.8% (7033184256/8192454656 bytes)
+2025-06-13 23:00:32,328 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:00:32,337 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:00:32,373 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:00:44,089 - app - INFO - app.py:682 - send_gmail_alert() - Gmail alert sent successfully: TEST: Gmail Alert
+2025-06-13 23:00:44,091 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: POST /alerts/test - Status: 200 - Duration: 3.108s - Request Size: 0B - Response Size: 126B
+2025-06-13 23:00:45,094 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 13.6%
+2025-06-13 23:00:45,098 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.7% (7104565248/8192454656 bytes)
+2025-06-13 23:00:45,100 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:00:45,107 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:00:45,146 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:00:56,149 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 39.2%
+2025-06-13 23:00:56,155 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.9% (7365570560/8192454656 bytes)
+2025-06-13 23:00:56,157 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:00:56,165 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:00:56,206 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:01:07,228 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 9.7%
+2025-06-13 23:01:07,232 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.3% (7400792064/8192454656 bytes)
+2025-06-13 23:01:07,233 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:01:07,242 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:01:07,295 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:01:18,287 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 9.7%
+2025-06-13 23:01:18,291 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.5% (7415988224/8192454656 bytes)
+2025-06-13 23:01:18,292 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:01:18,300 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:01:18,347 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:01:29,351 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.6%
+2025-06-13 23:01:29,356 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 89.3% (7311912960/8192454656 bytes)
+2025-06-13 23:01:29,357 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:01:29,366 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:01:29,414 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:01:38,491 - app - DEBUG - app.py:987 - predict() - GPU inference time: 0.7470s
+2025-06-13 23:01:41,507 - app - INFO - app.py:682 - send_gmail_alert() - Gmail alert sent successfully: CRITICAL: Low Confidence Prediction
+2025-06-13 23:01:41,507 - app - WARNING - app.py:1052 - predict() - LOW CONFIDENCE ALERT SENT: 0.4113 < 0.6
+2025-06-13 23:01:41,510 - app - INFO - app.py:1055 - predict() - Prediction: plane - Confidence: 0.4113 - Device: cuda - Inference time: 0.7480s
+2025-06-13 23:01:41,511 - app - INFO - app.py:196 - api_monitoring_middleware() - API Request: POST /predict - Status: 200 - Duration: 4.245s - Request Size: 61306B - Response Size: 115B
+2025-06-13 23:01:42,513 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 12.1%
+2025-06-13 23:01:42,517 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.2% (7391326208/8192454656 bytes)
+2025-06-13 23:01:42,518 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:01:42,527 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:01:42,570 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:01:53,582 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.7%
+2025-06-13 23:01:53,588 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.4% (7404511232/8192454656 bytes)
+2025-06-13 23:01:53,589 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:01:53,596 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:01:53,635 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:02:04,642 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 7.4%
+2025-06-13 23:02:04,646 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.1% (7383142400/8192454656 bytes)
+2025-06-13 23:02:04,647 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:02:04,653 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:02:04,695 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:02:15,699 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 12.6%
+2025-06-13 23:02:15,702 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.3% (7396450304/8192454656 bytes)
+2025-06-13 23:02:15,703 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:02:15,711 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:02:15,752 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:02:26,754 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 11.5%
+2025-06-13 23:02:26,758 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 92.7% (7597453312/8192454656 bytes)
+2025-06-13 23:02:26,759 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:02:26,766 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:02:26,805 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:02:37,817 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 68.0%
+2025-06-13 23:02:37,823 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 83.6% (6849617920/8192454656 bytes)
+2025-06-13 23:02:37,824 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:02:37,835 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:02:37,892 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:02:48,903 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.0%
+2025-06-13 23:02:48,909 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 84.7% (6937550848/8192454656 bytes)
+2025-06-13 23:02:48,910 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:02:48,920 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:02:48,959 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:02:59,963 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 19.4%
+2025-06-13 23:02:59,967 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.2% (7061008384/8192454656 bytes)
+2025-06-13 23:02:59,968 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:02:59,977 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:03:00,030 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:03:00,031 - app - DEBUG - app.py:702 - check_and_send_alerts() - Checking alerts...
+2025-06-13 23:03:00,031 - app - DEBUG - app.py:706 - check_and_send_alerts() - Error rate: 0.0% (threshold: 50.0%)
+2025-06-13 23:03:11,061 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 26.3%
+2025-06-13 23:03:11,065 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 87.9% (7198285824/8192454656 bytes)
+2025-06-13 23:03:11,066 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:03:11,076 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:03:11,130 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:03:22,143 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 27.6%
+2025-06-13 23:03:22,148 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 96.4% (7899328512/8192454656 bytes)
+2025-06-13 23:03:22,149 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:03:22,159 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:03:22,215 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:03:33,220 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 44.5%
+2025-06-13 23:03:33,241 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.3% (7394848768/8192454656 bytes)
+2025-06-13 23:03:33,242 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:03:33,251 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:03:33,319 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:03:44,301 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 59.4%
+2025-06-13 23:03:44,305 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.7% (7760371712/8192454656 bytes)
+2025-06-13 23:03:44,305 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:03:44,312 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:03:44,364 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:03:55,378 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 29.6%
+2025-06-13 23:03:55,382 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.1% (7711182848/8192454656 bytes)
+2025-06-13 23:03:55,382 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:03:55,390 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:03:55,446 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:04:06,442 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 39.9%
+2025-06-13 23:04:06,446 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.3% (7726014464/8192454656 bytes)
+2025-06-13 23:04:06,447 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:04:06,455 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:04:06,512 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:04:17,523 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 25.9%
+2025-06-13 23:04:17,528 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.2% (7635935232/8192454656 bytes)
+2025-06-13 23:04:17,529 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:04:17,539 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:04:17,591 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:04:28,583 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 4.9%
+2025-06-13 23:04:28,588 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.2% (7721316352/8192454656 bytes)
+2025-06-13 23:04:28,589 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:04:28,690 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:04:28,961 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:04:39,960 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 5.8%
+2025-06-13 23:04:39,964 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 93.8% (7682404352/8192454656 bytes)
+2025-06-13 23:04:39,965 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:04:40,039 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:04:40,289 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:04:51,289 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 15.5%
+2025-06-13 23:04:51,294 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 94.8% (7763206144/8192454656 bytes)
+2025-06-13 23:04:51,295 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:04:53,189 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:04:55,125 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:05:06,130 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 27.0%
+2025-06-13 23:05:06,137 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.3% (7399583744/8192454656 bytes)
+2025-06-13 23:05:06,137 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:05:06,146 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:05:06,202 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:05:17,199 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 9.1%
+2025-06-13 23:05:17,202 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 90.3% (7396069376/8192454656 bytes)
+2025-06-13 23:05:17,203 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:05:17,209 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:05:17,250 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:05:28,264 - app - DEBUG - app.py:443 - get_cpu_metrics() - CPU Usage: 9.9%
+2025-06-13 23:05:28,267 - app - DEBUG - app.py:454 - get_memory_metrics() - RAM Usage: 86.4% (7081824256/8192454656 bytes)
+2025-06-13 23:05:28,268 - app - DEBUG - app.py:492 - get_disk_metrics() - Disk metrics updated
+2025-06-13 23:05:28,274 - app - DEBUG - app.py:532 - get_network_metrics() - Network metrics updated
+2025-06-13 23:05:28,454 - app - DEBUG - app.py:547 - get_gpu_metrics() - GPU metrics updated for 1 GPUs
+2025-06-13 23:05:36,836 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown initiated at 2025-06-13T23:05:36.835948
+2025-06-13 23:05:36,838 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown initiated at 2025-06-13T23:05:36.835948
+2025-06-13 23:05:36,842 - app - INFO - app.py:1687 - shutdown_event() - Shutting down ML Model API...
+2025-06-13 23:05:36,843 - app - INFO - app.py:1691 - shutdown_event() - === FINAL STATISTICS BEFORE SHUTDOWN ===
+2025-06-13 23:05:36,844 - app - INFO - app.py:1694 - shutdown_event() - Total requests processed: 0
+2025-06-13 23:05:36,846 - app - INFO - app.py:1695 - shutdown_event() - Total errors: 0
+2025-06-13 23:05:36,893 - app - INFO - app.py:1696 - shutdown_event() - Total model inferences: 0
+2025-06-13 23:05:36,900 - app - INFO - app.py:1702 - shutdown_event() - Final system state - CPU: 22.0%, Memory: 82.9%
+2025-06-13 23:05:36,901 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === Final stats - CPU: 22.0%, Memory: 82.9%
+2025-06-13 23:05:36,901 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: Final stats - CPU: 22.0%, Memory: 82.9%
+2025-06-13 23:05:36,903 - app - INFO - app.py:874 - log_system_event() - === SYSTEM SHUTDOWN === ML Model API shutdown completed
+2025-06-13 23:05:36,903 - app - WARNING - app.py:875 - log_system_event() - System shutdown event logged to syslog: ML Model API shutdown completed
+2025-06-13 23:05:36,903 - app - INFO - app.py:1711 - shutdown_event() - ML Model API shutdown completed
